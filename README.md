@@ -9,13 +9,17 @@
 
 ## Publications
 
-**Removing Radio Frequency Interference from Auroral Kilometric Radiation with Stacked Convolutional Denoising AutoEncoders**
-<br> **Allen Chang**, Mary Knapp, James LaBelle, John Swoboda, Ryan Volz, Philip. J. Erickson. 
-<br> In preparation.
+**Multimodal Speech Recognition for Language-Guided Embodied Agents**
+<br> **Allen Chang**, Xiaoyuan Zhu, Aarav Monga, Seoho Ahn, Tejas Srinivasan, Jesse Thomason
+<br> *arXiv preprint arXiv:2302.14030*
+
+**Removing Radio Frequency Interference from Auroral Kilometric Radiation with Stacked Autoencoders**
+<br> **Allen Chang**, Mary Knapp, James LaBelle, John Swoboda, Ryan Volz, Philip J. Erickson
+<br> *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023)*
 
 **Evaluating Temporal Patterns in Applied Infant Affect Recognition.**
 <br>**Allen Chang**\*, Lauren Klein*, Marcelo R. Rosales, Weiyang Deng, Beth A. Smith and Maja J. Matarić. 
-<br> *2022 10th International Conference on Affective Computing and Intelligent Interaction*
+<br> *International Conference on Affective Computing and Intelligent Interaction (ACII 2022)*
 
 ## Most used by me
 
