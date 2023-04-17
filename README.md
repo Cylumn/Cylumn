@@ -1,5 +1,5 @@
-<h3 style="max-width: 500px; margin: 0; text-align: center;">
-  Welcome to my GitHub! I'm Allen, an undergraduate researcher & developer. Enchanté, nice to meet you.
+<h3>
+  Welcome to my GitHub! For updated information about me, check out <a href="https://cylumn.com" target="_blank">my website</a>.
 </h3>
 
 [[Website](https://cylumn.com)]
