@@ -3,7 +3,9 @@
 </h3>
 
 [[Website](https://cylumn.com)]
+[[Google Scholar](https://scholar.google.com/citations?user=7dT0C9gAAAAJ&hl=en)]
 [[Linkedin](https://www.linkedin.com/in/cylumn/)]
+[[Twitter](https://twitter.com/AllenCChang)]
 
 ![Allen Chang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cylumn&show_icons=true&theme=radical&count_private=true)
 
