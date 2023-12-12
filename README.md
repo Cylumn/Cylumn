@@ -12,7 +12,7 @@
 ## Publications
 
 **Quality-Diversity Generative Sampling for Learning with Synthetic Data**
-<br> **Allen Chang**, Matthew Fontaine, Serena Booth, Maja J. Matarić, Stefanos Nikolaidis
+<br> **Allen Chang**, Matthew C. Fontaine, Serena Booth, Maja J. Matarić, Stefanos Nikolaidis
 <br> *AAAI Conference on Artificial Intelligence (AAAI 2024)*
 
 **Multimodal Speech Recognition for Language-Guided Embodied Agents**
